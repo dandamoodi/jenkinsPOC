@@ -1,2 +1,4 @@
 # jenkinsPOC
-Sample Application for Jenkins set up
+Sample Application for Jenkins set up.
+
+Using Maven
